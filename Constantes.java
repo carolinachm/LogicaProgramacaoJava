@@ -5,6 +5,6 @@ public class Constantes {
         //Variavel
        final String nome = "Carol";
 
-       nome = "Nina";
+       //nome = "Nina";
     }
 }
